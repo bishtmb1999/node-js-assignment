@@ -4,7 +4,7 @@ const userModel = require("../model/userModel");
 const {
 
  
-  checkValue,
+  validateString,
   validateEmail,
   validatePassword,
   validateRequest,
